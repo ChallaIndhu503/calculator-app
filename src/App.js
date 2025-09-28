@@ -20,6 +20,7 @@ function App() {
   const calculateResult = () => {
     try {
      
+      // eslint-disable-next-line no-eval
       setInput(eval(input).toString());
     } catch {
       setInput("Error");

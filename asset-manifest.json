@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ChallaIndhu503/calculator-app/static/css/main.288b56f7.css",
+    "main.js": "/ChallaIndhu503/calculator-app/static/js/main.8d9f91a7.js",
+    "index.html": "/ChallaIndhu503/calculator-app/index.html",
+    "main.288b56f7.css.map": "/ChallaIndhu503/calculator-app/static/css/main.288b56f7.css.map",
+    "main.8d9f91a7.js.map": "/ChallaIndhu503/calculator-app/static/js/main.8d9f91a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.288b56f7.css",
+    "static/js/main.8d9f91a7.js"
+  ]
+}
